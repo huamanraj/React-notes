@@ -1,0 +1,28 @@
+npx create-react-app my-react-app-name -> 200MB
+cd 
+npm run start 
+npm run build 
+
+delete setup.js from src
+report..
+logosvg
+
+
+.....................
+
+vite.js
+
+npm create vite@latest
+
+ls
+pkg json
+
+if node modules not avlaible 
+
+npm install or npm i
+
+npm run dev
+
+clean project 
+
+
